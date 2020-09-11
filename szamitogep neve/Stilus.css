@@ -1,0 +1,39 @@
+/* * 
+     {
+    border: 1px solid red;
+     } */
+html
+     {
+      background-color:#fff;
+     }
+body
+     {
+      background-image: url("./alap.jpg");
+      width: 90%;
+      margin: auto;
+      border: 1px solid transparent ;
+     }
+h1,h3
+     {
+     text-align: center;
+     color: rgb(80,80,80);
+     }
+.belso 
+     {
+     }
+div
+     {
+     /* margin: 10px 10px 10px 10px; Felső/Jobb/Alsó/Bal
+     margin: 10px 10px 10px; Felső/Jobb-Bal/Alsó
+     margin: 10px 10px; Felső-Alsó/Jobb-Bal
+     margin: 10px; Felső-Jobb-Bal-Alsó */
+     margin-left: 20px
+     margin-right: 20px;
+     margin-top: 60px;
+     }
+hr   {
+      /* width: 50%; */
+      height: 5px;
+      background-color: grey;
+      border-radius: 4px;
+     }
